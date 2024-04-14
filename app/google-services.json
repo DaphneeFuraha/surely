@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192709631704",
+    "project_id": "surely-ac811",
+    "storage_bucket": "surely-ac811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192709631704:android:eabacad9be27c4e76401ad",
+        "android_client_info": {
+          "package_name": "com.example.surely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFB53zCiMQMGLf1gKfbxzR4JihyCTGPYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
